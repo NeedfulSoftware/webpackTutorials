@@ -4,6 +4,7 @@
   "description": "A basic library that provide a function that returns a Hello World! string",
   "main": "src/index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
