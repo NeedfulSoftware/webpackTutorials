@@ -16,6 +16,8 @@
     "url": "https://github.com/NeedfulSoftware/webpackTutorials/issues"
   },
   "homepage": "https://github.com/NeedfulSoftware/webpackTutorials#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^2.6.1"
   }
 }
