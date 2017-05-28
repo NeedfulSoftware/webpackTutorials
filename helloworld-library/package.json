@@ -1,0 +1,21 @@
+{
+  "name": "needfulsoftware-helloworld-library",
+  "version": "1.0.0",
+  "description": "A basic library that provide a function that returns a Hello World! string",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeedfulSoftware/webpackTutorials.git"
+  },
+  "author": "Xavier Leclercq <xavier.leclercq@needfulsoftware.com> (https://www.needfulsoftware.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NeedfulSoftware/webpackTutorials/issues"
+  },
+  "homepage": "https://github.com/NeedfulSoftware/webpackTutorials#readme",
+  "dependencies": {
+  }
+}
